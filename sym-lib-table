@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name ".Molex-NanoFit")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/Molex NanoFit/Molex-NanoFit.kicad_sym")(options "")(descr ""))
+  (lib (name ".RFM95")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/DL-RFM95-868M/2024-11-12_21-11-09.kicad_sym")(options "")(descr ""))
+  (lib (name ".MPM3610")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/MPM3610/MPM3610.kicad_sym")(options "")(descr ""))
+  (lib (name ".rp2350_tiny")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/RP2350_Tiny/rp2350_tiny.kicad_sym")(options "")(descr ""))
+  (lib (name ".SAM-M10Q")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/SAM-M10Q/SAM-M10Q.kicad_sym")(options "")(descr ""))
+  (lib (name ".Sensors")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/Sensors/Sensors.kicad_sym")(options "")(descr ""))
+  (lib (name ".DM3CS_SF")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/DM3CS-SF/DM3CS_SF.kicad_sym")(options "")(descr ""))
+  (lib (name ".RP2xxx_Stamp")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/RP2xxx_Stamps/RP2xxx_Stamp.kicad_sym")(options "")(descr ""))
+  (lib (name ".VND5160")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/VND5160AJTR-E/VND5160.kicad_sym")(options "")(descr ""))
+)
