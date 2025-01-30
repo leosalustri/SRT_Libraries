@@ -10,4 +10,5 @@
   (lib (name ".DM3CS-SF")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/DM3CS-SF/DM3CS-SF.pretty")(options "")(descr ""))
   (lib (name ".RP2xxx_Stamp")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/RP2xxx_Stamps/RP2xxx_Stamp.pretty")(options "")(descr ""))
   (lib (name ".VND5160")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/SRT_Template/SRT_Libraries/VND5160AJTR-E/VND5160.pretty")(options "")(descr ""))
+  (lib (name "cose.VND5160")(type "KiCad")(uri "${KIPRJMOD}/SRT_Libraries/VND5160AJTR-E/VND5160.pretty")(options "")(descr ""))
 )
